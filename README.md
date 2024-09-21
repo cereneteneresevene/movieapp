@@ -1,3 +1,8 @@
+## Açıklama
+
+Berkant Kayan'nın https://www.youtube.com/watch?v=1Pkd-4jhPMw&t=2542s videosu ile yapılmıştır. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
